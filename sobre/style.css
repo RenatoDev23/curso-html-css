@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+
+
+}
+
+body {
+    background-image: url(/img/index02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Cabeçalho*/
+
+header {
+    background-color: #8e8e8e;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav ul {
+
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+nav a {
+
+    color: #fff;
+    text-decoration: none;
+}
+
+h3{
+    display: flex;
+    margin: 20rem;
+    justify-content:  center;
+
+
+}
